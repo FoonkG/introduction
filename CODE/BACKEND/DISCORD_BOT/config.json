@@ -1,0 +1,7 @@
+{
+	"token": "TOKEN",
+	"prefix": "bot ",
+	"admins": [""],
+	"redis_url": "URL",
+	"postgress_url": "URL"
+}

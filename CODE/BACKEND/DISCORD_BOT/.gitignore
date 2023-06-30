@@ -1,0 +1,17 @@
+# Node
+node_modules/
+cache/
+release/
+
+.DS_Store
+.idea/
+
+# Logs
+*.log
+
+# Electron Snapshot
+snapshot/*.bin
+
+# Build
+dist/
+build/
