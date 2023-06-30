@@ -31,7 +31,7 @@ const NavBar = ({ value, changeValue }: INavigation) => {
 			<LeftContainer>
 				<NavBarLogo />
 				<StackedContainer gap="2px" marginLeft="18px">
-					<CompanyName>Microns Labs</CompanyName>
+					<CompanyName className="name">Micron Labs</CompanyName>
 					<Version>Beta</Version>
 				</StackedContainer>
 				<Divider leftMargin="25px" rightMargin="34px" />

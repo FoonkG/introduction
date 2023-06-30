@@ -20,11 +20,15 @@ const HomePage = () => {
 						<Alert />
 						<Title>Oops!</Title>
 					</TitleContainer>
-					<Subtitle>Under Construction</Subtitle>
+					<Subtitle className="subtitle">Under Construction</Subtitle>
 					<NotSupported>Mobile is not supported for now</NotSupported>
 					<ComingSoonContainer>Coming Soon</ComingSoonContainer>
 					<Paragraph>
-						Our website is under construction, but you might want to use our <Link onClick={handleClick}>NFT tool</Link> in the meantime
+						Our website is under construction, but you might want to use our{" "}
+						<Link onClick={handleClick} className="link">
+							NFT tool
+						</Link>{" "}
+						in the meantime
 					</Paragraph>
 				</LeftContainer>
 				<StyledLogo />
