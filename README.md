@@ -83,6 +83,15 @@ Here you can find some code examples of past projects I have worked on.
 
 #### [Backend](./CODE/BACKEND)
 
+## Open Source
+
+Here you can find open source projects i contributed to.
+
+### - [Ulixee Hero](https://github.com/ulixee/hero)
+[Issue](https://github.com/ulixee/hero/issues/236)
+I added the functionality to intercept network requests and change the body, headers and statusCode of the response.
+
+
 ## Skills
 
 -   Programming Languages: NodeJS, JavaScript, HTML, CSS, .NET, Java, python
