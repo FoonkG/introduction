@@ -9,6 +9,7 @@ Welcome to my portfolio repository! This repository showcases my projects, skill
 -   [Projects](#projects)
 -   [Videos](#videos)
 -   [Code Examples](#code-examples)
+-   [Open Source](#open-source)
 -   [Skills](#skills)
 -   [Contact](#contact)
 
